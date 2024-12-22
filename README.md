@@ -18,13 +18,12 @@ ChatGPT Desktop is a lightweight, Electron-based application that brings the pow
 
 Designed for both casual chats and productivity, ChatGPT Desktop offers an easy and secure way to interact with AI on your desktop.
 
-
 ![Image](https://github.com/xanmoy/chatgpt-desktop-client/blob/main/screenshots/image1.png)
 
 ## 📦 **Installation**
 
 ```bash
-sudo snap install chatgpt-desktop-client
+sudo snap install chatgpt-desktop-client --beta
 ```
 
 ### Build From Source
@@ -95,4 +94,3 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 ## Acknowledgments
 
 - **Electron** - Framework used to build the application.
-
