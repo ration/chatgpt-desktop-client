@@ -2,7 +2,7 @@
 
 Chatgpt Desktop is a cross-platform desktop application that allows you to use Notion directly on your computer, making it easier to chat with friends and family while working.
 
-![Image](https://github.com/xanmoy/chatgpt-desktop-client/blob/main/screenshots/chatgpt-desktop-client.jpeg)
+![Image](https://raw.githubusercontent.com/xanmoy/chatgpt-desktop-client/refs/heads/main/screenshots/chatgpt.webp)
 
 ## 🛠 **Features**
 
