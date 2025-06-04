@@ -5,12 +5,13 @@
   "type": "module",
   "scripts": {
     "start": "electron .",
-    "dist": "electron-builder --linux snap"
+    "dist": "electron-builder --linux snap",
+    "dist-appimage": "electron-builder --linux AppImage"
   },
   "build": {
     "appId": "com.example.chatgptdesktopclient",
     "linux": {
-      "target": "snap",
+      "target": ["snap", "AppImage"],
       "icon": "assets/icon.png",
       "category": "Utility"
     }
